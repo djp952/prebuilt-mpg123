@@ -13,6 +13,8 @@
 * android-21-x86_64 (ndk-r20b/api-21)  
 * rasbpian-armhf (gcc-4.8.3)   
 * osx-x86_64 (apple-darwin19)   
+* windows-win32   
+* windows-x64   
    
 **BUILD ENVIRONMENT**  
 * Windows 10 x64 20H2 (19042)   
